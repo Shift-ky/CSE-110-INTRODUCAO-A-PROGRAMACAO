@@ -24,4 +24,4 @@ O {animal.lower()} então parou, olhou bem nos meus olhos e decidiu {verbo2.lowe
 
 No final, ninguém acreditou na minha história… mas eu sei muito bem o que vi.
 
-''')
+''') 
